@@ -4,7 +4,7 @@ const enNavbarData = {
   Home: "Home",
   publications: "publications",
   Research: "Research",
-  Jobs: "Jobs",
+  #Jobs: #Jobs
   Contact: "Contact",
 };
 
@@ -21,97 +21,24 @@ const enHomePageData = {
     
      <h2 class='title'> Hobbies </h2>
      <p> Outside of astrophysics, I’m deeply passionate about the arts. I’ve been drawing black-and-white charcoal portraits and acrylic paintings for years. I also play Setar and Tombak (Persian classical music) and enjoy practicing Iranian radif. In my free time, I love documenting my travels and sharing stories through videos on my YouTube channel.  </p>
-    <ul>
-      <li> Heuristics</li>
-      <li> Policy planning </li>
-      <li> Flexiblity to details </li>
-    </ul>
   </div>
   `,
 };
 
 // ---------- Publications page data
 const enPublicationsPageData = {
-  type_one_title: "Journal Papers",
+  type_one_title: "Under Prepration",
 
   type_one_items: [
     {
-      title: `Dancing to the beat of climate change: Studying visual frames on TikTok through the left-right divide among U.S. politicians (with ).`,
-      abstract: `Politicians across the political spectrum have taken to TikTok in an attempt to reach young voters by producing original videos. This novel trend has turned TikTok into the new polarizing ring in the political communication battle, deepening the partisan breach around issues such as climate change. However`,
-      date: "",
-      link: "http://link.com",
-      github: "",
-      download: "",
-      writers: ["Claudio Cioffi-Revilla", "masoud Claudio "],
-    },
-    {
-      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
-      abstract: `Politicians across the political spectrum have taken to TikTok in an attempt to reach young voters by producing original videos. This novel trend has turned TikTok into the new polarizing ring in the political communication battle, deepening the partisan breach around issues such as climate change. However`,
-      date: "1996",
+      title: `Quantifying Galaxy Mergers’ impact on Dusty Galaxies with JWST and Euclid`,
+      abstract: `.`,
+      date: "2026",
       link: "",
-      github: "http://github.com",
-      writers: ["Claudio Cioffi-Revilla", ""],
+      writers: ["Sepideh Sepehri", "Beatrice Facciolli", "Giovanni Gandolfi", "Laura Bisigello", "Giulia Rodighiero", "Andrea
+Grazian", "Giorgia Girardi"],
     },
-  ],
-
-  type_two_title: "Under Review",
-  type_two_items: [
-    {
-      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
-      abstract: ``,
-      date: "1996",
-      link: "",
-      github: "",
-      writers: [],
-    },
-    {
-      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
-      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
-      date: "1996",
-      link: "http://link.com",
-      github: "http://github.com",
-      writers: ["Claudio Cioffi-Revilla", "masoud Claudio "],
-    },
-  ],
-
-  type_three_title: "Book Chapters",
-  type_three_items: [
-    {
-      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
-      abstract: ``,
-      date: "",
-      link: "",
-      github: "",
-      writers: [],
-    },
-    {
-      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
-      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
-      date: "1996",
-      link: "http://link.com",
-      github: "http://github.com",
-      writers: ["Claudio Cioffi-Revilla"],
-    },
-  ],
-
-  type_four_title: "",
-  type_four_items: [
-    {
-      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
-      abstract: ``,
-      date: "",
-      link: "",
-      github: "",
-      writers: [],
-    },
-    {
-      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
-      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
-      date: "1996",
-      link: "http://link.com",
-      github: "http://github.com",
-      writers: ["Claudio Cioffi-Revilla"],
-    },
+    
   ],
 };
 
