@@ -2,7 +2,7 @@
 const enNavbarData = {
   title: " Sepideh Sepehri ",
   Home: "Home",
-  publications: "Publications",
+  publications: "publications",
   Research: "Research",
   Contact: "Contact",
 };
