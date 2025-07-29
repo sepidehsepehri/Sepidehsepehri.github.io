@@ -15,12 +15,12 @@ const enHomePageData = {
   home_title: "About me",
   home_content: `
   <div>
-    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-      ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    </p>
+    <p> I’m an early-career astrophysicist with a passion for understanding the universe through data. I hold a Master’s degree in Astrophysics from the University of Padova and a Bachelor’s degree in Physics from Tehran Polytechnic (Amirkabir University of Technology).    </p>
     <h2 class='title'> Main works </h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus. Mattis pellentesque id nibh  </p>
+    <p> My academic background has a strong focus on data analysis, observational astrophysics, and practical problem-solving. I have experience working with large astronomical datasets (JWST, TESS), scientific modeling, and optimizing Python pipelines to extract meaningful patterns from complex, noisy data.  </p>
+    
+     <h2 class='title'> Hobbies </h2>
+     <p> Outside of astrophysics, I’m deeply passionate about the arts. I’ve been drawing black-and-white charcoal portraits and acrylic paintings for years. I also play Setar and Tombak (Persian classical music) and enjoy practicing Iranian radif. In my free time, I love documenting my travels and sharing stories through videos on my YouTube channel.  </p>
     <ul>
       <li> Heuristics</li>
       <li> Policy planning </li>
