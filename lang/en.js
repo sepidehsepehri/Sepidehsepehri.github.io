@@ -39,23 +39,24 @@ const enHomePageData = {
 
 // ---------- Publications page data
 const enPublicationsPageData = {
+  type_one_title: "Under review",
 
-
-  type_two_title: "Under Review",
-  type_two_items: [
+  type_one_items: [
     {
-      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
-      abstract: ``,
-      date: "1996",
-      link: "",
+      title: `Dancing to the beat of climate change: Studying visual frames on TikTok through the left-right divide among U.S. politicians (with ).`,
+      abstract: `Politicians across the political spectrum have taken to TikTok in an attempt to reach young voters by producing original videos. This novel trend has turned TikTok into the new polarizing ring in the political communication battle, deepening the partisan breach around issues such as climate change. However`,
+      date: "",
+      link: "http://link.com",
       github: "",
-      writers: [],
+      download: "",
+      writers: ["Claudio Cioffi-Revilla", "masoud Claudio "],
     },
-  
+    
   ],
 
   
 };
+
 
 // ---------- Research page data
 const enResearchPageData = {
