@@ -14,7 +14,7 @@ const enHomePageData = {
   home_title: "About me",
   home_content: `
   <div>
-    <p> I’m an early-career astrophysicist with a passion for understanding the universe through data. 
+    <p> I’m an early-career astrophysicist with a passion for understanding the early universe through data. 
     I hold a Master’s degree in Astrophysics from the University of Padova and a Bachelor’s degree in Physics from Tehran Polytechnic (Amirkabir University of Technology).
 
 
@@ -22,13 +22,12 @@ const enHomePageData = {
     <h2 class='title'> Main works </h2>
     <p> My academic background has a strong focus on data analysis, observational astrophysics, and practical problem-solving. 
     I have experience working with large astronomical datasets (JWST, TESS), scientific modeling, and optimizing Python pipelines to extract meaningful patterns from complex, noisy data.
-    My background spans both academic research and dynamic work environments, combining technical tasks under pressure with public-facing roles. 
     I’m skilled at adapting to new tools and goals quickly, resolving issues efficiently, and working collaboratively. 
 
   </p
    </p>
     <h2 class='title'> Hobbies </h2>
-    <p> Outside of astrophysics, I’m deeply passionate about the arts. I’ve been creating black-and-white charcoal portraits and acrylic paintings for years. 
+    <p> Outside of astrophysics, I’m deeply passionate about the arts. I’ve been drawing black-and-white charcoal portraits and acrylic paintings for years. 
     I also play Setar and Tombak (Persian classical music) and practicing Iranian classic Radif. 
     In my free time, I love documenting my travels and sharing stories through videos on my YouTube channel.
   </p>
@@ -43,13 +42,14 @@ const enPublicationsPageData = {
 
   type_one_items: [
     {
-      title: `Dancing to the beat of climate change: Studying visual frames on TikTok through the left-right divide among U.S. politicians (with ).`,
-      abstract: `Politicians across the political spectrum have taken to TikTok in an attempt to reach young voters by producing original videos. This novel trend has turned TikTok into the new polarizing ring in the political communication battle, deepening the partisan breach around issues such as climate change. However`,
-      date: "",
+      title: `Quantifying Galaxy Mergers’ impact on Dusty Galaxies with JWST and Euclid`,
+      abstract: `.`,
+      date: "2026",
       link: "http://link.com",
       github: "",
       download: "",
-      writers: ["Claudio Cioffi-Revilla", "masoud Claudio "],
+      writers: ["Sepideh Sepehri", "Beatrice Facciolli", "Giovanni Gandolfi", "Laura Bisigello", "Giulia Rodighiero", "Andrea
+Grazian", "Giorgia Girardi"],
     },
     
   ],
