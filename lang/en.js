@@ -10,54 +10,110 @@ const enNavbarData = {
 
 // ---------- Home page data
 const enHomePageData = {
-  name: " Sepideh Sepehri ",
-  jobTitle: " Astrophysicist ",
+  name: " Your name ",
+  jobTitle: " Job title ",
   home_title: "About me",
   home_content: `
   <div>
-    <p> I’m an early-career astrophysicist with a passion for understanding the early universe through data. 
-    I hold a Master’s degree in Astrophysics from the University of Padova and a Bachelor’s degree in Physics from Tehran Polytechnic (Amirkabir University of Technology).
-
-
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
+      ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </p>
     <h2 class='title'> Main works </h2>
-    <p> My academic background has a strong focus on data analysis, observational astrophysics, and practical problem-solving. 
-    I have experience working with large astronomical datasets (JWST, TESS), scientific modeling, and optimizing Python pipelines to extract meaningful patterns from complex, noisy data.
-    I’m skilled at adapting to new tools and goals quickly, resolving issues efficiently, and working collaboratively. 
-
-  </p
-   </p>
-    <h2 class='title'> Hobbies </h2>
-    <p> Outside of astrophysics, I’m deeply passionate about the arts. I’ve been drawing black-and-white charcoal portraits and acrylic paintings for years. 
-    I also play Setar and Tombak (Persian classical music) and practicing Iranian classic Radif. 
-    In my free time, I love documenting my travels and sharing stories through videos on my YouTube channel.
-  </p>
-    
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus. Mattis pellentesque id nibh  </p>
+    <ul>
+      <li> Heuristics</li>
+      <li> Policy planning </li>
+      <li> Flexiblity to details </li>
+    </ul>
   </div>
   `,
 };
 
 // ---------- Publications page data
 const enPublicationsPageData = {
-  type_one_title: "Under review",
+  type_one_title: "Journal Papers",
 
   type_one_items: [
     {
-      title: `Quantifying Galaxy Mergers’ impact on Dusty Galaxies with JWST and Euclid`,
-      abstract: `.`,
-      date: "2026",
+      title: `Dancing to the beat of climate change: Studying visual frames on TikTok through the left-right divide among U.S. politicians (with ).`,
+      abstract: `Politicians across the political spectrum have taken to TikTok in an attempt to reach young voters by producing original videos. This novel trend has turned TikTok into the new polarizing ring in the political communication battle, deepening the partisan breach around issues such as climate change. However`,
+      date: "",
       link: "http://link.com",
       github: "",
       download: "",
-      writers: ["Sepideh Sepehri", "Beatrice Facciolli", "Giovanni Gandolfi", "Laura Bisigello", "Giulia Rodighiero", "Andrea
-Grazian", "Giorgia Girardi"],
+      writers: ["Claudio Cioffi-Revilla", "masoud Claudio "],
     },
-    
+    {
+      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
+      abstract: `Politicians across the political spectrum have taken to TikTok in an attempt to reach young voters by producing original videos. This novel trend has turned TikTok into the new polarizing ring in the political communication battle, deepening the partisan breach around issues such as climate change. However`,
+      date: "1996",
+      link: "",
+      github: "http://github.com",
+      writers: ["Claudio Cioffi-Revilla", ""],
+    },
   ],
 
-  
-};
+  type_two_title: "Under Review",
+  type_two_items: [
+    {
+      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
+      abstract: ``,
+      date: "1996",
+      link: "",
+      github: "",
+      writers: [],
+    },
+    {
+      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
+      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
+      date: "1996",
+      link: "http://link.com",
+      github: "http://github.com",
+      writers: ["Claudio Cioffi-Revilla", "masoud Claudio "],
+    },
+  ],
 
+  type_three_title: "Book Chapters",
+  type_three_items: [
+    {
+      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
+      abstract: ``,
+      date: "",
+      link: "",
+      github: "",
+      writers: [],
+    },
+    {
+      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
+      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
+      date: "1996",
+      link: "http://link.com",
+      github: "http://github.com",
+      writers: ["Claudio Cioffi-Revilla"],
+    },
+  ],
+
+  type_four_title: "",
+  type_four_items: [
+    {
+      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
+      abstract: ``,
+      date: "",
+      link: "",
+      github: "",
+      writers: [],
+    },
+    {
+      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
+      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
+      date: "1996",
+      link: "http://link.com",
+      github: "http://github.com",
+      writers: ["Claudio Cioffi-Revilla"],
+    },
+  ],
+};
 
 // ---------- Research page data
 const enResearchPageData = {
